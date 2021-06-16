@@ -1,0 +1,6 @@
+Había una vez un chico que le gustaba la programación,
+este se encontraba estudiando JavaScript en la parte del
+servidor, hace referencia a Node.js.
+
+El quiere aprender esto porque le gusta, y quiere crecer de manera
+profesional.
